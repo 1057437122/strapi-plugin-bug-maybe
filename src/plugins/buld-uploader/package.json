@@ -1,0 +1,14 @@
+{
+  "name": "buld-uploader",
+  "version": "1.0.0",
+  "description": "My custom plugin",
+  "strapi": {
+    "name": "buld-uploader",
+    "displayName": "My test Plugin",
+    "description": "Custom test plugin",
+    "kind": "plugin"
+  },
+  "license": "MIT",
+  "main": "dist/strapi-server.js",
+  "dependencies": {}
+}
